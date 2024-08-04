@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "181567026635",
+    "project_id": "uaspemogramanmobile-8f863",
+    "storage_bucket": "uaspemogramanmobile-8f863.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181567026635:android:02243dc81ede746a5cb24e",
+        "android_client_info": {
+          "package_name": "com.example.uas_pemograman_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBli2hoiWMEcP7Pj6Z8sJS5KeDWZZxh8KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
